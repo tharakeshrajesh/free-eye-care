@@ -7,6 +7,9 @@ use 20-20-20 rule
 
 icon credits: https://www.pngmart.com/image/5396
 
+for windows, i recommend putting in startup folder
+startup directory path: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
+
 ## os compatibility
 windows - yes
 linux - idk, hopefully

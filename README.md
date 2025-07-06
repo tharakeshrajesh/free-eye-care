@@ -1,7 +1,11 @@
 # free eye care
 digital eye care that's free
 
+this is not like actual eye care though so like dont sue me or anything
+
 use 20-20-20 rule
+
+icon credits: https://www.pngmart.com/image/5396
 
 ## os compatibility
 windows - yes

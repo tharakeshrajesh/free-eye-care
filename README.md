@@ -15,7 +15,9 @@ startup directory path: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
 
 ## os compatibility
 windows - yes
+
 linux - ~~idk, hopefully~~ probably not
+
 macos - ~~yeah i still dk~~ also probably not
 
 ## reason why i made
